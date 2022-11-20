@@ -1,0 +1,14 @@
+body {
+    background-color: black; 
+    color: aliceblue;
+    font-weight: bold;
+    font-style: sans-serif;
+    
+}
+#headNForm {
+    margin: 10% 25% 10% 25%;
+}
+#realIP ,#locationButton {
+    color: aliceblue;
+    background-color: green;
+}
