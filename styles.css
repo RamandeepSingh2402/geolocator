@@ -10,5 +10,6 @@ body {
 }
 #realIP ,#locationButton {
     color: aliceblue;
+    padding: 5px;
     background-color: green;
 }
